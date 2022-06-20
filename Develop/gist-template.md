@@ -42,6 +42,11 @@ Imagine that you are reading through some documentation and the document is ridd
 
 Let's take a look at how this search pattern works.
 
+```
+
+/#([\da-fA-F]{3}|[\da-fA-F]{6})\b/g
+
+```
 
 
 ## Characters
